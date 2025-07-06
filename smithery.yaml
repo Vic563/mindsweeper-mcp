@@ -11,8 +11,8 @@ keywords:
   - "board-game"
   - "entertainment"
 category: "entertainment"
-homepage: "https://github.com/your-username/minesweeper-mcp-server"
-repository: "https://github.com/your-username/minesweeper-mcp-server"
+homepage: "https://github.com/Vic563/mindsweeper-mcp"
+repository: "https://github.com/Vic563/mindsweeper-mcp"
 tools:
   - name: "create_board"
     description: "Create a new Minesweeper board with specified dimensions and mine count"

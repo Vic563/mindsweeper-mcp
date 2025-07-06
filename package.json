@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A Minesweeper MCP server that allows users to create and play Minesweeper games of any size",
   "main": "dist/index.js",
+  "module": "./src/index.ts",
   "type": "module",
   "scripts": {
     "build": "tsc",
