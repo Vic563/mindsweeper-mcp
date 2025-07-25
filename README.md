@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides Minesweeper game functionality. Users can create custom-sized Minesweeper boards and play the classic game through AI assistants.
 
+<a href="https://glama.ai/mcp/servers/@Vic563/mindsweeper-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Vic563/mindsweeper-mcp/badge" alt="Minesweeper Server MCP server" />
+</a>
+
 ## Features
 
 - **Custom Board Sizes**: Create Minesweeper boards of any size (up to 50x50)
